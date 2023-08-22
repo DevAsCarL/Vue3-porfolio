@@ -1,16 +1,10 @@
 <template>
   <main class="relative bg-secondary flex flex-col">
-
-    <NavComponent class="bg-fixed top-0 left-0 bottom-0" :activate="isActivate" />
-
-
+    <NavComponent :activate="isActivate" />
     <PresentationSection class="grow ml-20"
       v-intersection-observer="[onIntersectionObserver('presentation'), { threshold: 0.55 }]" />
-
     <ProjectsSection class="grow ml-20 flex items-center justify-center my-10"
       v-intersection-observer="[onIntersectionObserver('projects'), { threshold: 0.3 }]" />
-
-
   </main>
 </template>
 <script setup>

@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="h-screen bg-primary fixed flex flex-col justify-between items-center z-50 transition-all py-8 drop-shadow-sm "
+    class="h-[100%] top-0 bottom-0 bg-primary fixed flex flex-col justify-between items-center z-50 transition-all py-8"
     :class="isExpanded ? 'w-[150px]' : 'w-[70px]'">
     <button @click="$emit('onToggleExpand'), isExpanded = !isExpanded">
       <SvgIcon v-if="!isExpanded" type="mdi" :path="mdiArrowExpandRight" :size="30" class="drop-shadow-2xl text-white">

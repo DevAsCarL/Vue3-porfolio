@@ -1,0 +1,364 @@
+[
+  {
+    "id": "punto-venta",
+    "title": "Punto de venta de Restaurante",
+    "image": "/img/proyects/laraval-tritium.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "https://puntoventa.lara-net.com/",
+        "class": "web"
+      },
+      {
+        "name": "git",
+        "url": "https://github.com/TritiumPeru/Lara",
+        "class": "git",
+        "private": true
+      }
+    ],
+    "languages": [
+      {
+        "name": "laravel"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto es un sistema de punto de venta diseñado específicamente para restaurantes. Desarrollado con tecnologías de vanguardia, combina la potencia de Laravel con las capacidades de HTML y CSS para brindar una solución completa y eficiente para la gestión de pedidos y ventas en establecimientos gastronómicos.",
+      "en": "This project is a point of sale system specifically designed for restaurants. Developed with cutting-edge technologies, it combines the power of Laravel with the capabilities of HTML and CSS to provide a comprehensive and efficient solution for order and sales management in food establishments."
+    }
+  },
+  {
+    "id": "sistema-gestion",
+    "title": "Sistema Integral de Gestión Empresarial",
+    "image": "/img/proyects/reformas-morgestion.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "https://morgestion.online/reformas/public",
+        "class": "web"
+      },
+      {
+        "name": "git",
+        "url": "https://bitbucket.org/orlando_cardona/reformas/src/main/",
+        "class": "git",
+        "private": true
+      }
+    ],
+    "languages": [
+      {
+        "name": "vue"
+      },
+      {
+        "name": "laravel"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto representa un Sistema Integral de Gestión Empresarial diseñado para simplificar y mejorar la administración de empresas. Combinando tecnologías avanzadas como Vue.js y Laravel, este sistema ofrece una solución completa para la gestión de recursos, procesos y datos empresariales.",
+      "en": "This project represents a Comprehensive Enterprise Management System designed to simplify and enhance business administration. By combining advanced technologies such as Vue.js and Laravel, this system offers a complete solution for managing resources, processes, and enterprise data."
+    }
+  },
+  {
+    "id": "landing-construccion",
+    "title": "Landing page de Construcción",
+    "image": "/img/proyects/grupo-bogavante.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "https://grupobogavante.com/",
+        "class": "web"
+      },
+      {
+        "name": "git",
+        "url": "",
+        "class": "git",
+        "private": true
+      }
+    ],
+    "languages": [
+      {
+        "name": "javascript"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto es una Landing Page de Construcción diseñada para mostrar el trabajo y los servicios de Grupo Bogavante, una destacada empresa de construcción. Desarrollada con JavaScript, HTML y CSS, esta página de aterrizaje ofrece una experiencia visualmente atractiva e informativa para visitantes interesados en proyectos de construcción.",
+      "en": "This project is a Construction Landing Page designed to showcase the work and services of Grupo Bogavante, a leading construction company. Built using JavaScript, HTML, and CSS, this landing page provides a visually appealing and informative experience for visitors interested in construction projects."
+    }
+  },
+  {
+    "id": "red-social",
+    "title": "Red Social para adultos",
+    "image": "/img/proyects/abcinfluencer.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "https://abcinfluencer.com/",
+        "class": "web"
+      },
+      {
+        "name": "git",
+        "url": "https://bitbucket.org/orlando_cardona/abcinfluencer/src/master/",
+        "class": "git",
+        "private": true
+      }
+    ],
+    "languages": [
+      {
+        "name": "laravel"
+      },
+      {
+        "name": "javascript"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto es una red social especializada diseñada exclusivamente para adultos. Desarrollada utilizando una combinación de Laravel, JavaScript, HTML y CSS, proporciona una plataforma segura y privada para que adultos se conecten, compartan y se relacionen con personas afines.",
+      "en": "This project is a specialized social network designed exclusively for adults. Developed using a combination of Laravel, JavaScript, HTML, and CSS, it provides a secure and private platform for adults to connect, share, and engage with like-minded individuals."
+    }
+  },
+  {
+    "id": "tranding-view",
+    "title": "Trading View en Tiempo Real",
+    "image": "/img/proyects/heat-map.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "https://demo-trading-vuejs.netlify.app/",
+        "class": "web"
+      },
+      {
+        "name": "git",
+        "url": "https://github.com/DevAsCarL/trading-charts",
+        "class": "git"
+      }
+    ],
+    "languages": [
+      {
+        "name": "vue"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto ofrece una Vista de Trading en Tiempo Real, proporcionando a los traders herramientas poderosas para analizar los mercados financieros al instante. Desarrollado utilizando Vue.js, brinda actualizaciones en vivo y gráficos interactivos, capacitando a los traders con datos esenciales e información clave para tomar decisiones informadas.",
+      "en": "This project offers a Real-Time Trading View, providing traders with powerful tools to analyze financial markets on the fly. Built using Vue.js, it delivers live updates and interactive charts, empowering traders with essential data and insights for informed decision-making."
+    }
+  },
+  {
+    "id": "chat-ai",
+    "title": "Chat utilizando inteligencia Artificial",
+    "image": "/img/proyects/chatsomeone.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "https://chatsomeone.netlify.app/",
+        "class": "web"
+      },
+      {
+        "name": "git",
+        "url": "https://github.com/DevAsCarL/ChatBot",
+        "class": "git"
+      }
+    ],
+    "languages": [
+      {
+        "name": "vue"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto presenta una aplicación de chat impulsada por la Inteligencia Artificial. Utilizando tecnologías como Vue.js, HTML y CSS, ofrece una experiencia de chat fluida e interactiva. El chatbot responde de manera inteligente a las consultas de los usuarios y proporciona una interfaz amigable para conversaciones envolventes.",
+      "en": "This project showcases a chat application powered by Artificial Intelligence. Leveraging technologies like Vue.js, HTML, and CSS, it offers a seamless and interactive chatting experience. The chatbot responds intelligently to user queries and provides a user-friendly interface for engaging conversations."
+    }
+  },
+  {
+    "id": "vet-php",
+    "title": "Proyecto de gestión de veterinaria",
+    "image": "/img/proyects/vetspa.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "https://vetspa.000webhostapp.com/",
+        "class": "web"
+      },
+      {
+        "name": "git",
+        "url": "https://github.com/DevAsCarL/Veterinaria-IS21",
+        "class": "git"
+      }
+    ],
+    "languages": [
+      {
+        "name": "php"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto representa un Sistema de Gestión Veterinaria diseñado para simplificar y mejorar las operaciones de clínicas veterinarias. Construido utilizando una combinación de tecnologías que incluyen PHP, HTML y CSS, este sistema ofrece soluciones integrales para el registro de pacientes, programación de citas y la gestión de clínicas.",
+      "en": "This project represents a Veterinary Management System designed to streamline and enhance the operations of veterinary clinics. Built using a stack of technologies including PHP, HTML, and CSS, this system offers comprehensive solutions for patient records, appointments, and clinic management."
+    }
+  },
+  {
+    "id": "gestion-inventario",
+    "title": "Proyecto de gestión de inventario",
+    "image": "/img/proyects/ads-project.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "https://ads-proyect.000webhostapp.com/",
+        "class": "web"
+      },
+      {
+        "name": "git",
+        "url": "https://github.com/DevAsCarL/ADS-Proyecto",
+        "class": "git"
+      }
+    ],
+    "languages": [
+      {
+        "name": "php"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto es un sistema de Gestión de Inventario diseñado para simplificar y optimizar los procesos de control de inventario. Utilizando una combinación de tecnologías que incluyen PHP, HTML y CSS, proporciona una solución integral para gestionar niveles de stock, rastrear productos y garantizar operaciones de inventario eficientes.",
+      "en": "This project is an Inventory Management system designed to streamline and optimize inventory control processes. Utilizing a combination of technologies, including PHP, HTML, and CSS, it provides a comprehensive solution for managing stock levels, tracking items, and ensuring efficient inventory operations."
+    }
+  },
+  {
+    "id": "vet-laravel",
+    "title": "Proyecto de gestión de veterinaria",
+    "image": "/img/proyects/laravet.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "http://laravet.infinityfreeapp.com/",
+        "class": "web"
+      },
+      {
+        "name": "git",
+        "url": "https://github.com/DevAsCarL/Laravel-vet",
+        "class": "git"
+      }
+    ],
+    "languages": [
+      {
+        "name": "laravel"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      },
+      {
+        "name": "jquery",
+        "class": "logo__jquery"
+      },
+      {
+        "name": "sass"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto representa un Sistema de Gestión Veterinaria diseñado para optimizar y mejorar las operaciones de clínicas veterinarias y proveedores de atención animal. Construido utilizando tecnologías de vanguardia como Laravel, HTML, CSS, jQuery y Sass, este sistema ofrece una solución integral y simple para la gestión de registros de pacientes, citas y más.",
+      "en": "This project represents a Veterinary Management System designed to streamline and enhance the operations of veterinary clinics and animal healthcare providers. Built using cutting-edge technologies such as Laravel, HTML, CSS, jQuery, and Sass, this system offers a comprehensive solution for managing patient records, appointments, and more."
+    }
+  },
+  {
+    "id": "shopping-car",
+    "title": "Carrito de compras de pizzeria",
+    "image": "/img/proyects/pizza-api.png",
+    "links": [
+      {
+        "name": "web",
+        "url": "https://pizza-apirest.netlify.app/",
+        "class": "web"
+      },
+      {
+        "name": "front",
+        "url": "https://github.com/DevAsCarL/Pizza-apiRest",
+        "class": "git"
+      },
+      {
+        "name": "back",
+        "url": "https://github.com/DevAsCarL/Laravel-vet",
+        "class": "git"
+      }
+    ],
+    "languages": [
+      {
+        "name": "vue"
+      },
+      {
+        "name": "html",
+        "class": "logo__html"
+      },
+      {
+        "name": "css",
+        "class": "logo__css"
+      }
+    ],
+    "description": {
+      "es": "Este proyecto consiste en un carrito de compras en línea diseñado específicamente para una pizzería. Utilizando tecnologías modernas como Vue.js, este sistema permite a los clientes seleccionar y ordenar pizzas de manera conveniente y eficiente.",
+      "en": "This project is an online shopping cart designed specifically for a pizzeria. Using modern technologies like Vue.js, this system allows customers to conveniently and efficiently select and order pizzas."
+    }
+  }
+]

@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col gap-3 text-white min-h-screen bg-secondary rounded-lg justify-start items-center py-4">
+    <div class="flex flex-col gap-3 md:gap-10 text-white min-h-screen bg-secondary rounded-lg justify-start items-center py-4">
         <div class="w-full">
             <a href="/#projects" class="">
                 <SvgIcon type="mdi" :path="mdiArrowLeftBold" :size="50" class="hover:text-quaternary" />

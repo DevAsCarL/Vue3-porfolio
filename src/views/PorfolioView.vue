@@ -1,8 +1,8 @@
 <template>
   <main class="relative bg-secondary flex flex-col">
-    <div class="fixed z-10">
-      <NavComponent class="fixed top-0 left-0 h-screen" :activate="isActivate" />
-    </div>
+
+    <NavComponent class="bg-fixed top-0 left-0 bottom-0" :activate="isActivate" />
+
 
     <PresentationSection class="grow ml-20"
       v-intersection-observer="[onIntersectionObserver('presentation'), { threshold: 0.55 }]" />
